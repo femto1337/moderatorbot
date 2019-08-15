@@ -1,5 +1,1 @@
 discord.py
-aiohttp
-json
-asyncio
-os
